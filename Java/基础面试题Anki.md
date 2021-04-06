@@ -17,7 +17,7 @@
 
 
 
-###  子类初始化的执行顺寻
+###  子类初始化的执行顺序
 
 - ![image-20210403095533764](C:\Users\big\AppData\Roaming\Typora\typora-user-images\image-20210403095533764.png)
 - ![image-20210403100636859](C:\Users\big\AppData\Roaming\Typora\typora-user-images\image-20210403100636859.png)
