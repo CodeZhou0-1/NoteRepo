@@ -1,4 +1,4 @@
-#  Mymall商城基础笔记（1）
+#  Mymall商城基础笔记
 
 ### 1. 整合MyBatis-Plus
 
